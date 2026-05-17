@@ -11,7 +11,7 @@ description: >-
   directories, and forms through the Indian Affairs GIS Open Data portal, the
   Tribal Leader Directory, and official agency websites.
 type: Index
-x-type: government
+kind: government
 position: Consumer
 access: 3rd-Party
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
@@ -147,7 +147,7 @@ apis:
 common:
   - type: Website
     url: https://www.bia.gov/
-  - type: Privacy Policy
+  - type: PrivacyPolicy
     url: https://www.bia.gov/privacy-policy
   - type: Accessibility
     url: https://www.doi.gov/accessibility
