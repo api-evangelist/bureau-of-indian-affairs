@@ -145,6 +145,8 @@ apis:
       - Grant and funding research
       - Tribal education policy
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/bureau-of-indian-affairs
   - type: Website
     url: https://www.bia.gov/
   - type: PrivacyPolicy
