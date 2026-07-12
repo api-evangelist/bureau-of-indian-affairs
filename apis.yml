@@ -145,6 +145,8 @@ apis:
       - Grant and funding research
       - Tribal education policy
 common:
+  - type: DomainSecurity
+    url: security/bureau-of-indian-affairs-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/bureau-of-indian-affairs
   - type: Website
@@ -161,6 +163,8 @@ common:
     url: https://www.bia.gov/contact-us
   - type: Forms
     url: https://www.bia.gov/forms
+  - url: https://www.bia.gov/rss.xml
+    type: Blog
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
