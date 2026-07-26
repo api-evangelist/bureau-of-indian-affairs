@@ -12,9 +12,21 @@ description: >-
   Tribal Leader Directory, and official agency websites.
 type: Index
 kind: government
+accessModel:
+  pricing: freemium
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Freemium
+  confidence: medium
+  source:
+    - plans
+  generated: '2026-07-22'
+  method: derived
 position: Consumer
 access: 3rd-Party
-image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/bureau-of-indian-affairs.png
 tags:
   - Federal Government
   - GIS
@@ -26,43 +38,9 @@ tags:
 url: >-
   https://raw.githubusercontent.com/api-evangelist/bureau-of-indian-affairs/refs/heads/main/apis.yml
 created: '2024-11-25'
-modified: '2026-04-23'
+modified: '2026-07-25'
 specificationVersion: '0.19'
 apis:
-  - aid: bureau-of-indian-affairs:bureau-of-indian-affairs
-    name: Bureau of Indian Affairs
-    description: >-
-      The Bureau of Indian Affairs is the oldest bureau in the U.S. Department
-      of the Interior, carrying out the federal responsibility to protect and
-      improve trust assets of American Indians, Indian tribes, and Alaska
-      Natives through tribal governance support, law enforcement, economic
-      development, natural resources management, and family services.
-    humanURL: https://www.bia.gov/bia
-    tags:
-      - Federal Government
-      - Indigenous
-      - Tribal Governance
-    properties:
-      - type: Website
-        url: https://www.bia.gov/bia
-      - type: Documentation
-        url: https://www.bia.gov/bia
-      - type: Leadership
-        url: https://www.bia.gov/bia/leadership
-    x-features:
-      - Tribal governance and self-determination support
-      - Fee-to-Trust Land Acquisitions
-      - Law enforcement and justice services
-      - Missing and Murdered Indigenous People (MMIP) Unit
-      - Indian Child Welfare Act (ICWA) administration
-      - Tiwahe family-focused programs
-      - Emergency management
-      - Wildland fire management
-    x-use-cases:
-      - Tribal policy research and compliance
-      - Federal recognition and acknowledgement workflows
-      - Natural resources and land management
-      - Tribal leader and contact discovery
   - aid: bureau-of-indian-affairs:indian-affairs-gis-open-data
     name: Indian Affairs GIS Open Data
     description: >-
@@ -165,6 +143,8 @@ common:
     url: https://www.bia.gov/forms
   - url: https://www.bia.gov/rss.xml
     type: Blog
+  - type: About
+    url: https://www.bia.gov/bia
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com

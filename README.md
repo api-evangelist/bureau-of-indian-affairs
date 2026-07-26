@@ -22,10 +22,6 @@ The Bureau of Indian Affairs (BIA) is the oldest bureau in the U.S. Department o
 
 ## APIs
 
-### Bureau of Indian Affairs
-Federal agency carrying out trust responsibilities to American Indians, Indian tribes, and Alaska Natives.
-
-**Human URL:** [https://www.bia.gov/bia](https://www.bia.gov/bia)
 
 ### Indian Affairs GIS Open Data
 Authoritative geospatial datasets including tribal boundaries, ICWA agents, and program awards via ArcGIS Hub.
