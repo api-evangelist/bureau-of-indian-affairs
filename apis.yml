@@ -28,6 +28,14 @@ position: Consumer
 access: 3rd-Party
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/bureau-of-indian-affairs.png
 tags:
+  - Federal-Government
+  - GIS
+  - ICWA
+  - Indigenous
+  - Tribal
+  - Tribal Governance
+  - Trust Assets
+tags_raw:
   - Federal Government
   - GIS
   - ICWA
