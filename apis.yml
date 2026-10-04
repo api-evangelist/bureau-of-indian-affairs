@@ -39,7 +39,7 @@ position: Consuming
 access: 3rd-Party
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/bureau-of-indian-affairs.png
 tags:
-  - Federal-Government
+  - Federal Government
   - GIS
   - ICWA
   - Indigenous
@@ -54,6 +54,7 @@ tags_raw:
   - Tribal
   - Tribal Governance
   - Trust Assets
+  - Federal-Government
 url: >-
   https://raw.githubusercontent.com/api-evangelist/bureau-of-indian-affairs/refs/heads/main/apis.yml
 created: '2024-11-25'
