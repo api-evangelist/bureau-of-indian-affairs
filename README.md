@@ -1,4 +1,4 @@
-# Bureau of Indian Affairs (bureau-of-indian-affairs)
+# Bureau of Indian Affairs
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,60 +64,105 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-The Bureau of Indian Affairs (BIA) is the oldest bureau in the U.S. Department of the Interior. Its mission is to enhance the quality of life, promote economic opportunity, and carry out the federal responsibility to protect and improve the trust assets of American Indians, Indian tribes, and Alaska Natives. The BIA administers services directly or through contracts, grants, and compacts with 574 federally recognized tribes serving approximately 2.5 million people.
+The Bureau of Indian Affairs (BIA) is the oldest bureau in the U.S. Department of the Interior. Its mission is to enhance the quality of life, promote economic opportunity, and carry out the federal responsibility to protect and improve the trust assets of American Indians, Indian tribes, and Alaska Natives. The BIA administers services directly or through contracts, grants, and compacts with 574 federally recognized tribes serving approximately 2.5 million people. BIA publishes geospatial datasets, directories, and forms through the Indian Affairs GIS Open Data portal, the Tribal Leader Directory, and official agency websites.
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/bureau-of-indian-affairs/refs/heads/main/apis.yml)
+**Areas:** Federal Government · GIS · ICWA · Indigenous · Tribal · Tribal Governance · Trust Assets
 
-## Scope
+## Bureau of Indian Affairs on APIs.io
 
-- **Type:** Index
-- **x-type:** government
-- **Position:** Consumer
-- **Access:** 3rd-Party
+Everything profiled for Bureau of Indian Affairs is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/bureau-of-indian-affairs/](https://apis.io/providers/bureau-of-indian-affairs/)** — or go straight to one of the APIs or properties below.
 
-## Tags
+### APIs (3)
 
-- Federal Government
-- GIS
-- ICWA
-- Indigenous
-- Tribal
-- Tribal Governance
-- Trust Assets
+- [Indian Affairs GIS Open Data](https://apis.io/apis/bureau-of-indian-affairs/indian-affairs-gis-open-data/) — The Indian Affairs GIS Open Data Hub publishes authoritative geospatial datasets as downloadable and machine-readable resources via Esri ArcGIS Hub,…
+- [BIA Tribal Leaders Directory](https://apis.io/apis/bureau-of-indian-affairs/tribal-leader-directory/) — A searchable directory published by the Bureau of Indian Affairs of elected leaders and contact information for each of the 574 federally recognized tribes,…
+- [Bureau of Indian Education](https://apis.io/apis/bureau-of-indian-affairs/bureau-of-indian-education/) — The Bureau of Indian Education (BIE) supports programs serving more than 46,000 students across 183 schools, including BIE-operated and tribally-controlled…
 
-## APIs
+### Published properties
 
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-### Indian Affairs GIS Open Data
-Authoritative geospatial datasets including tribal boundaries, ICWA agents, and program awards via ArcGIS Hub.
+#### Security (1)
 
-**Human URL:** [https://biamaps.doi.gov/bogs/datadownload.html](https://biamaps.doi.gov/bogs/datadownload.html)
+Authentication, trust centre, and vulnerability disclosure.
 
-### BIA Tribal Leaders Directory
-Searchable directory of elected leaders for 574 federally recognized tribes.
+- [Bureau Of Indian Affairs Domain Security](https://apis.io/security/bureau-of-indian-affairs/bureau-of-indian-affairs-domain-security/)
 
-**Human URL:** [https://www.bia.gov/service/tribal-leaders-directory](https://www.bia.gov/service/tribal-leaders-directory)
+#### Plans and pricing (1)
 
-### Bureau of Indian Education
-K-12 and postsecondary education services for Indian students.
+Published plans, tiers and prices.
 
-**Human URL:** [https://www.bie.edu/](https://www.bie.edu/)
+- [Bureau Of Indian Affairs Plans Pricing](https://apis.io/plans/bureau-of-indian-affairs/bureau-of-indian-affairs-plans-pricing/)
 
-## Common Properties
+#### Rate limits (1)
+
+Published request limits.
+
+- [Bureau Of Indian Affairs Rate Limits](https://apis.io/rate-limits/bureau-of-indian-affairs/bureau-of-indian-affairs-rate-limits/)
+
+#### FinOps (1)
+
+What the API costs to run, by operation.
+
+- [Bureau Of Indian Affairs Finops](https://apis.io/finops/bureau-of-indian-affairs/bureau-of-indian-affairs-finops/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://www.bia.gov/)
-- [Privacy Policy](https://www.bia.gov/privacy-policy)
-- [FOIA](https://www.bia.gov/foia)
-- [Newsroom](https://www.bia.gov/news)
-- [Contact](https://www.bia.gov/contact-us)
-- [Forms](https://www.bia.gov/forms)
+- [Blog](https://www.bia.gov/rss.xml)
+- [Privacy policy](https://www.bia.gov/privacy-policy)
 
-## Timestamps
+## API Evangelist rating
 
-- **Created:** 2024-11-25
-- **Modified:** 2026-04-23
+**Kin Score 11.0** — emerging · rubric 0.24.0 · scored 2026-10-17
 
-## Maintainers
+| Facet | Score |
+|---|---|
+| Discoverability | 63.4 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 7.9 |
+| Developer ergonomics | 2.4 |
+| Access clarity | 18.4 |
 
-**FN:** Kin Lane
-**Email:** kin@apievangelist.com
+**Agent readiness 0.6** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | derived (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 9.8** — Government & Public Sector
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/bureau-of-indian-affairs/](https://apis.io/providers/bureau-of-indian-affairs/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Bureau of Indian Affairs: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/bureau-of-indian-affairs/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
